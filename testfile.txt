@@ -1,3 +1,7 @@
 this is init content
 this is new content
+<<<<<<< HEAD
 master also changes the file
+=======
+branches has change the file
+>>>>>>> publish-2015-07-09
